@@ -1,0 +1,1 @@
+This project simulates a pizza store named Pizza Hat. This program, built with python and SQL database, simulates orders and manage supllies.
